@@ -38,7 +38,8 @@ Parameter:
 
 
 
-  contacts: [
+  contacts: 
+  [
       {
         "name": {
           "first": "John",
