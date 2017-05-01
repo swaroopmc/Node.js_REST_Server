@@ -38,7 +38,10 @@ Parameter:
 
 
 
-  contacts: [
+  contacts: 
+  
+  [
+      
       {
         "name": {
           "first": "John",
@@ -47,6 +50,7 @@ Parameter:
         "title": "CTO",
         "emails": [ "john@gmail.com", "john@trellsnow.com" ]
       },
+      
       {
         "name": {
         "first": "Mike",
@@ -64,4 +68,5 @@ Parameter:
         "title": "Designer",
         "emails": [ "kat@gmail.com" ]
       },
+      
     ]
