@@ -47,20 +47,22 @@ Parameter:
         "title": "CTO",
         "emails": [ "john@gmail.com", "john@trellsnow.com" ]
       },
+      
       {
         "name": {
         "first": "Mike",
         "last": "Wolraich"
         },
         "title": "Freelancer",
-        "emails": [ "wolraich@gmail.com" ]
+        "emails": [ "wolraichui@gmail.com" ]
       },
+      
       {
         "name": {
           "first": "Kat",
           "last": "Shuford"
         },
         "title": "Designer",
-        "emails": [ "shuford@trellisnow" ]
+        "emails": [ "kat@gmail.com" ]
       },
     ]
