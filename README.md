@@ -41,14 +41,7 @@ Parameter:
   contacts: 
   
   [  
-      {
-        "name": {
-          "first": "John",
-          "last": "Mark"
-        },
-        "title": "CTO",
-        "emails": [ "john@gmail.com", "john@trellsnow.com" ]
-      },
+      
       
       {
         "name": {
